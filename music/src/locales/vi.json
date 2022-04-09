@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "Nghe nhạc tuyệt vời!"
+  },
+  "manage": {
+    "my_songs": "Bài hát của tôi"
+  },
+  "register": {
+    "TOS": "Điều khoản dịch vụ",
+    "accept": "Tôi chấp nhận âm nhạc của {0}"
+  },
+  "song": {
+    "comment_count": "Miễn bình luận | 1 bình luận | {count} bình luận"
+  }
+}
